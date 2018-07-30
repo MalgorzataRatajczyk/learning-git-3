@@ -1,2 +1,2 @@
-node_modules/.bin/nu-html-checker *.html
-node-modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
+nu-html-checker *.html
+autoprefixer-cli -o style.prefixed.css style.css
